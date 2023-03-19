@@ -1,0 +1,8 @@
+.idea/
+__pycache__/
+average_times/
+fcfs_results_of_times/
+sjf_results_of_times/
+standard_deviation_times/
+statistics/
+test_data/
